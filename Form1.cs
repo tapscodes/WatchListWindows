@@ -1,8 +1,8 @@
 namespace WatchListWindows
 {
-    public partial class Form1 : Form
+    public partial class WatchListForm : Form
     {
-        public Form1()
+        public WatchListForm()
         {
             InitializeComponent();
         }
